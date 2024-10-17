@@ -1,0 +1,437 @@
+{
+	"items": [
+		{
+			"key": "PlayButton",
+			"value": "Juego"
+		},
+		{
+			"key": "SettingsButton",
+			"value": "Ajustes"
+		},
+		{
+			"key": "CreditsButton",
+			"value": "Créditos"
+		},
+		{
+			"key": "ExitButton",
+			"value": "Salida"
+		},
+
+		{
+			"key": "LandingSettings",
+			"value": "Ajustes de aterrizaje"
+		},
+		{
+			"key": "Land",
+			"value": "Tierra"
+		},
+		{
+			"key": "Inventory",
+			"value": "Inventario"
+		},
+
+		{
+			"key": "CHOOSE PLANET",
+			"value": "ELEGIR PLANETA"
+		},
+		{
+			"key": "Random",
+			"value": "Aleatorio"
+		},
+		{
+			"key": "(RECOMMENDED)",
+			"value": "(RECOMENDADO)"
+		},
+		{
+			"key": "MAX SURVIVED WAVES",
+			"value": "ONDAS SOBREVIVIDAS MÁX: "
+		},
+
+		{
+			"key": "CHOOSE SPECIAL UPGRADE",
+			"value": "ELEGIR MEJORA ESPECIAL"
+		},
+		{
+			"key": "CHOOSE SETTING",
+			"value": "ELEGIR CONFIGURACIÓN"
+		},
+
+		{
+			"key": "U0",
+			"value": "Nada"
+		},
+		{
+			"key": "U1",
+			"value": "Combustible mejorado para aumentar la velocidad de movimiento del jetpack\n\n<color=orange>Sobrevive 5 oleadas</color>"
+		},
+		{
+			"key": "U2",
+			"value": "Aumenta la defensa máxima (fuerza) de Shelter en 30 puntos mediante el uso de una combinación especial de materiales que se encuentran en diferentes planetas\n\n<color=orange>Sobrevive 10 oleadas</color>"
+		},
+		{
+			"key": "U3",
+			"value": "Oportunidad de obtener dos materiales en lugar de uno al refinar utilizando un método más eficiente y el último equipo\n\n<color=orange>Sobrevive 20 oleadas</color>"
+		},
+		{
+			"key": "U4",
+			"value": "Aumenta el daño infligido por misil con un efecto acumulativo\n\n<color=orange>Sobrevive 28 oleadas</color>"
+		},
+		{
+			"key": "U5",
+			"value": "Aumenta la potencia de perforación por defecto\n\n<color=orange>Sobrevive 25 oleadas en modo Difícil</color>"
+		},
+		{
+			"key": "U6",
+			"value": "Active cualquier artefacto de su elección al comienzo de cada ejecución\n\n<color=orange>Derrota a Hamy (en la oleada 30) en modo Monsoon</color>"
+		},
+		
+		{
+			"key": "GRAPHICS QUALITY",
+			"value": "CALIDAD DE LOS GRÁFICOS"
+		},
+		{
+			"key": "LOW",
+			"value": "BAJO"
+		},
+		{
+			"key": "MEDIUM",
+			"value": "MEDIO"
+		},
+		{
+			"key": "HIGH",
+			"value": "ALTO"
+		},
+		{
+			"key": "Music",
+			"value": "Música"
+		},
+		{
+			"key": "SFX",
+			"value": "SFX"
+		},
+
+		{
+			"key": "Recommended to play with headphones",
+			"value": "Recomendado para jugar con auriculares"
+		},
+
+		{
+			"key": "Analyzing planet",
+			"value": "Analizando el planeta..."
+		},
+		{
+			"key": "Map generation",
+			"value": "Generación de mapas..."
+		},
+
+
+		{
+			"key": "Replenish Supplies",
+			"value": "Reponer suministros"
+		},
+		{
+			"key": "OR",
+			"value": "O"
+		},
+
+		
+		
+		{
+			"key": "Wave detector",
+			"value": "Detector de olas"
+		},
+		{
+			"key": "DISTANCE",
+			"value": "DISTANCIA"
+		},
+
+
+		{
+			"key": "Wave Cleared",
+			"value": "Ola ha sido despejado"
+		},
+		{
+			"key": "Dome Threat Detected",
+			"value": "Amenaza de domo detectada"
+		},
+
+
+		{
+			"key": "AchievmentDescriptionTemplate",
+			"value": "Nuevo logro: sobrevivir <color=orange>{0}</color> días. Nueva mejora especial disponible: <color=orange>{1}</color>"
+		},
+
+		{
+			"key": "Quickly restore",
+			"value": "Restaurar rápidamente"
+		},
+		{
+			"key": "(clicking will automatically apply the recovery)",
+			"value": "(al hacer clic se aplicará automáticamente la recuperación)"
+		},
+		
+		{
+			"key": "IMPROVEMENTS",
+			"value": "MEJORAS"
+		},
+		{
+			"key": "CHOOSE IMPROVEMENT",
+			"value": "ELIJA MEJORA"
+		},
+		{
+			"key": "IMPROVE",
+			"value": "MEJORAR"
+		},
+		{
+			"key": "M. SPEED",
+			"value": "velocidad"
+		},
+		{
+			"key": "DRILL",
+			"value": "PERFORAR"
+		},
+		{
+			"key": "BULLET",
+			"value": "MISIL"
+		},
+		{
+			"key": "GUN",
+			"value": "FUSIL"
+		},
+		{
+			"key": "Shelter strength",
+			"value": "Fuerza del\nrefugio"
+		},
+		{
+			"key": "Repair",
+			"value": "Reparar"
+		},
+		{
+			"key": "Jetpack Load Capacity",
+			"value": "Jetpack\nCapacidad de carga"
+		},
+
+
+		{
+			"key": "shelterHP",
+			"value": "Aumento de la resistencia (20) de la superficie del refugio"
+		},
+		{
+			"key": "speed",
+			"value": "Aumenta la velocidad de movimiento al mejorar el rendimiento del jetpack"
+		},
+		{
+			"key": "drill",
+			"value": "Taladro mejorado: mejor que el anterior, al menos así lo parece"
+		},
+		{
+			"key": "gunPower",
+			"value": "Bala de fusil mejorada: aumenta el daño"
+		},
+		{
+			"key": "gunRotateSpeed",
+			"value": "Aumenta la velocidad de rotación de la fusil"
+		},
+		{
+			"key": "gunReloadingSpeed",
+			"value": "Disminuye el tiempo de recarga de la bala"
+		},
+		{
+			"key": "jetpackLoadCapacity",
+			"value": "Aumenta el límite de carga del jetpack para volar con más recursos"
+		},
+
+		{
+			"key": "Artifacts",
+			"value": "Artefactos"
+		},
+		{
+			"key": "CHOOSE ARTIFACT",
+			"value": "ELEGIR ARTEFACTO"
+		},
+		{
+			"key": "ENABLE",
+			"value": "PERMITIR"
+		},
+
+		{
+			"key": "ART_TIP",
+			"value": "Para crear un artefacto, necesitas encontrar una parte de él"
+		},
+
+
+		{
+			"key": "Unstable Tesla Coil Title",
+			"value": "Bobina de Tesla inestable"
+		},
+		{
+			"key": "Aegis Title",
+			"value": "Égida"
+		},
+		{
+			"key": "Solus Cores Title",
+			"value": "Núcleos Solus"
+		},
+		{
+			"key": "Preon Merger Title",
+			"value": "Fusión de Preon"
+		},
+		{
+			"key": "Plasma Missile Launcher Title",
+			"value": "Lanzador de misiles de plasma"
+		},
+		{
+			"key": "Focused Missile Title",
+			"value": "Misil Enfocado"
+		},
+		{
+			"key": "Protection Piercer Title",
+			"value": "Perforador de protección"
+		},
+		{
+			"key": "Concentrated Damage Title",
+			"value": "Daño concentrado"
+		},
+		{
+			"key": "Concentrated Shots Title",
+			"value": "Disparos concentrados"
+		},
+		{
+			"key": "Weak Point Title",
+			"value": "Punto débil"
+		},
+		{
+			"key": "Resource Elevator Title",
+			"value": "Ascensor de recursos"
+		},
+		{
+			"key": "Converter Title",
+			"value": "Converter"
+		},
+
+		{
+			"key": "unstable tesla coil",
+			"value": "Crea un dispositivo que golpea a una criatura enemiga con una explosión de energía si se acerca al área de alcance"
+		},
+		{
+			"key": "aegis",
+			"value": "Restaura un poco la fuerza de la cúpula a expensas del material extraído después de matar al monstruo"
+		},
+		{
+			"key": "solus cores",
+			"value": "Crea dos núcleos. Te teletransporta a la cúpula. Recarga en 55 segundos"
+		},
+		{
+			"key": "preon merger",
+			"value": "Crea con probabilidad un mineral amarillo de un enemigo asesinado"
+		},
+		{
+			"key": "plasma missile launcher",
+			"value": "Dispara varios misiles de plasma guiados en lugar de mineral rojo"
+		},
+		{
+			"key": "focused missile",
+			"value": "Posibilidad de disparar un misil de plasma guiado cada vez que se golpea a un enemigo"
+		},
+		{
+			"key": "protection piercer",
+			"value": "Daño adicional al enemigo si tiene más del 90% de salud"
+		},
+		{
+			"key": "concentrated damage",
+			"value": "Cuando la durabilidad del refugio es inferior al 20 %, se duplica el daño contra los enemigos."
+		},
+		{
+			"key": "concentrated shots",
+			"value": "Cuando el refugio está por encima del 93% de durabilidad, doble velocidad de ataque (recarga de proyectil)"
+		},
+		{
+			"key": "weak point",
+			"value": "Probabilidad de infligir el doble de daño"
+		},
+		{
+			"key": "resource elevator",
+			"value": "Crea un ascensor especial con la entrega de recursos usando drones"
+		},
+		{
+			"key": "converter",
+			"value": "Al reparar la cúpula, dispara varios misiles de plasma guiados hechos con partes antiguas reemplazadas de la cúpula"
+		},
+
+
+		{
+			"key": "choose which part of the artifact to convert the material into",
+			"value": "elegir en qué parte del artefacto convertir el material"
+		},
+		{
+			"key": "you received part of the artifact",
+			"value": "recibiste parte del artefacto"
+		},
+		{
+			"key": "With it, you can create this artifact using ordinary resources in the Artifacts tab",
+			"value": "Con él, puede crear este artefacto utilizando recursos ordinarios en la pestaña Artefactos"
+		},
+
+
+		{
+			"key": "RESUME",
+			"value": "REANUDAR"
+		},
+		{
+			"key": "QUICK TIP",
+			"value": "CONSEJO"
+		},
+		{
+			"key": "MAIN MENU",
+			"value": "Menú"
+		},
+		{
+			"key": "RESTART",
+			"value": "REINICIAR"
+		},
+		{
+			"key": "YOU DIED",
+			"value": "MORISTE"
+		},
+
+
+		{
+			"key": "Extract",
+			"value": "   <color=orange>Extracto</color>. Obtenga recursos, llévelos al refinador en el domo y úselos sabiamente"
+		},
+		{
+			"key": "Upgrade",
+			"value": "   <color=orange>Mejora</color>. Mejore las defensas de su cúpula, pistola, taladro y otros para resistir las olas"
+		},
+		{
+			"key": "Survive",
+			"value": "   <color=orange>Sobrevivir</color>. Cada vez que llegue una ola de monstruos, prepárate para contraatacar"
+		},
+
+
+		{
+			"key": "Sayen",
+			"value": "<b><color=orange>Sayen</color></b>\nTu pesadilla violeta"
+		},
+		{
+			"key": "Eokcon",
+			"value": "<b><color=orange>Eokcon</color></b>\nInfierno real"
+		},
+		{
+			"key": "Getkra",
+			"value": "<b><color=orange>Getkra</color></b>\nExtensión esmeralda"
+		},
+		{
+			"key": "Koita",
+			"value": "<b><color=orange>Koita</color></b>\nPáramo sin límites"
+		},
+		{
+			"key": "Argen",
+			"value": "<b><color=orange>Argen</color></b>\nLuz extraña"
+		},
+		{
+			"key": "Fark",
+			"value": "<b><color=orange>Fark</color></b>\nTierras frías"
+		}
+	]
+}

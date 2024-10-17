@@ -1,0 +1,440 @@
+{
+  "items": [
+    {
+      "key": "PlayButton",
+      "value": "Spiel"
+    },
+    {
+      "key": "SettingsButton",
+      "value": "Settings"
+    },
+    {
+      "key": "CreditsButton",
+      "value": "Credits"
+    },
+    {
+      "key": "ExitButton",
+      "value": "Ausfahrt"
+    },
+
+    {
+      "key": "LandingSettings",
+      "value": "Landeeinstellungen"
+    },
+    {
+      "key": "Land",
+      "value": "Landen"
+    },
+    {
+      "key": "Inventory",
+      "value": "Inventar"
+    },
+
+    {
+      "key": "CHOOSE PLANET",
+      "value": "WÄHLE PLANET"
+    },
+    {
+      "key": "Random",
+      "value": "Willkürlich"
+    },
+    {
+      "key": "(RECOMMENDED)",
+      "value": "(EMPFOHLEN)"
+    },
+    {
+      "key": "MAX SURVIVED WAVES",
+      "value": "MAX ÜBERLEBENE WELLEN: "
+    },
+
+    {
+      "key": "CHOOSE SPECIAL UPGRADE",
+      "value": "WÄHLEN SIE SPEZIELLE UPGRADE"
+    },
+    {
+      "key": "CHOOSE SETTING",
+      "value": "WÄHLEN SIE EINSTELLUNG"
+    },
+
+    {
+      "key": "U0",
+      "value": "Nichts"
+    },
+    {
+      "key": "U1",
+      "value": "Verbesserter Treibstoff zur Erhöhung der Jetpack-Bewegungsgeschwindigkeit\n\n<color=orange>Überlebe 5 Wellen</color>"
+    },
+    {
+      "key": "U2",
+      "value": "Erhöhen Sie die maximale Verteidigung (Stärke) von Shelter um 30 Punkte durch die Verwendung einer speziellen Kombination von Materialien, die auf verschiedenen Planeten zu finden sind\n\n<color=orange>Überlebe 10 Wellen</color>"
+    },
+    {
+      "key": "U3",
+      "value": "Chance, bei der Veredelung durch effizientere Methoden und modernste Ausrüstung zwei Materialien anstelle von einem zu erhalten\n\n<color=orange>Überlebe 20 Wellen</color>"
+    },
+    {
+      "key": "U4",
+      "value": "Erhöht den von der Rakete verursachten Schaden mit kumulativer Wirkung\n\n<color=orange>Überlebe 28 Wellen</color>"
+    },
+    {
+      "key": "U5",
+      "value": "Erhöht standardmäßig die Bohrleistung\n\n<color=orange>Überlebe 25 Wellen im schweren Modus</color>"
+    },
+    {
+      "key": "U6",
+      "value": "Aktiviere zu Beginn jedes Laufs ein beliebiges Artefakt deiner Wahl\n\n<color=orange>Besiege Hamy (bei Welle 30) im Monsunmodus</color>"
+    },
+    
+    
+    {
+      "key": "GRAPHICS QUALITY",
+      "value": "GRAFIKQUALITÄT"
+    },
+    {
+      "key": "LOW",
+      "value": "NIEDRIG"
+    },
+    {
+      "key": "MEDIUM",
+      "value": "MITTEL"
+    },
+    {
+      "key": "HIGH",
+      "value": "HOCH"
+    },
+    {
+      "key": "Music",
+      "value": "Musik"
+    },
+    {
+      "key": "SFX",
+      "value": "SFX"
+    },
+
+    {
+      "key": "Recommended to play with headphones",
+      "value": "Empfohlen zum Spielen mit Kopfhörern"
+    },
+
+    {
+      "key": "Analyzing planet",
+      "value": "Den Planeten analysieren..."
+    },
+    {
+      "key": "Map generation",
+      "value": "Kartenerstellung..."
+    },
+
+
+    {
+      "key": "Replenish Supplies",
+      "value": "Vorräte auffüllen"
+    },
+    {
+      "key": "OR",
+      "value": "ODER"
+    },
+
+
+
+    {
+      "key": "Wave detector",
+      "value": "Wellendetektor"
+    },
+    {
+      "key": "DISTANCE",
+      "value": "DISTANZ"
+    },
+
+
+    {
+      "key": "Wave Cleared",
+      "value": "Welle gelöscht"
+    },
+    {
+      "key": "Dome Threat Detected",
+      "value": "Dome-Bedrohung erkannt"
+    },
+
+
+    {
+      "key": "AchievmentDescriptionTemplate",
+      "value": "New achievement: survive <color=orange>{0}</color> tage. Neues Spezial-Upgrade verfügbar - <color=orange>{1}</color>"
+    },
+
+
+    {
+      "key": "Quickly restore",
+      "value": "Schnelle Wiederherstellung"
+    },
+    {
+      "key": "(clicking will automatically apply the recovery)",
+      "value": "(Durch Klicken wird die Wiederherstellung automatisch angewendet)"
+    },
+
+
+    {
+      "key": "IMPROVEMENTS",
+      "value": "VERBESSERUNGEN"
+    },
+    {
+      "key": "CHOOSE IMPROVEMENT",
+      "value": "WÄHLEN SIE VERBESSERUNG"
+    },
+    {
+      "key": "IMPROVE",
+      "value": "VERBESSERN"
+    },
+    {
+      "key": "M. SPEED",
+      "value": "SPEED"
+    },
+    {
+      "key": "DRILL",
+      "value": "BOHREN"
+    },
+    {
+      "key": "BULLET",
+      "value": "PATRONE"
+    },
+    {
+      "key": "GUN",
+      "value": "GEWEHR"
+    },
+    {
+      "key": "Shelter strength",
+      "value": "Schutzstärke"
+    },
+    {
+      "key": "Repair",
+      "value": "Reparatur"
+    },
+    {
+      "key": "Jetpack Load Capacity",
+      "value": "Jetpack\nTragfähigkeit"
+    },
+
+
+    {
+      "key": "shelterHP",
+      "value": "Erhöhung der Festigkeit (20) der Unterstandsoberfläche"
+    },
+    {
+      "key": "speed",
+      "value": "Erhöht die Bewegungsgeschwindigkeit durch Verbesserung der Jetpack-Leistung"
+    },
+    {
+      "key": "drill",
+      "value": "Verbesserter Bohrer: Besser als der vorherige, zumindest sieht es so aus"
+    },
+    {
+      "key": "gunPower",
+      "value": "Verbessertes Gewehrgeschoss: Erhöht den Schaden"
+    },
+    {
+      "key": "gunRotateSpeed",
+      "value": "Erhöht die Rotationsgeschwindigkeit der Waffe"
+    },
+    {
+      "key": "gunReloadingSpeed",
+      "value": "Verkürzt die Nachladezeit des Geschosses"
+    },
+    {
+      "key": "jetpackLoadCapacity",
+      "value": "Erhöht die Ladegrenze des Jetpacks für das Fliegen mit mehr Ressourcen"
+    },
+
+
+    {
+      "key": "Artifacts",
+      "value": "Artefakte"
+    },
+    {
+      "key": "CHOOSE ARTIFACT",
+      "value": "WÄHLEN SIE ARTEFAKT"
+    },
+    {
+      "key": "ENABLE",
+      "value": "ERMÖGLICHEN"
+    },
+
+    {
+      "key": "ART_TIP",
+      "value": "Um ein Artefakt zu erstellen, müssen Sie einen Teil davon finden"
+    },
+
+
+    {
+      "key": "Unstable Tesla Coil Title",
+      "value": "Instabile Tesla-Spule"
+    },
+    {
+      "key": "Aegis Title",
+      "value": "Ägide"
+    },
+    {
+      "key": "Solus Cores Title",
+      "value": "Solus-Kerne"
+    },
+    {
+      "key": "Preon Merger Title",
+      "value": "Preon-Fusion"
+    },
+    {
+      "key": "Plasma Missile Launcher Title",
+      "value": "Plasma-Raketenwerfer"
+    },
+    {
+      "key": "Focused Missile Title",
+      "value": "Fokussierte Rakete"
+    },
+    {
+      "key": "Protection Piercer Title",
+      "value": "Schutzpiercer"
+    },
+    {
+      "key": "Concentrated Damage Title",
+      "value": "Konzentrierter Schaden"
+    },
+    {
+      "key": "Concentrated Shots Title",
+      "value": "Konzentrierte Schüsse"
+    },
+    {
+      "key": "Weak Point Title",
+      "value": "Schwachstelle"
+    },
+    {
+      "key": "Resource Elevator Title",
+      "value": "Ressourcenaufzug"
+    },
+    {
+      "key": "Converter Title",
+      "value": "Converter"
+    },
+
+    {
+      "key": "unstable tesla coil",
+      "value": "Erstellt ein Gerät, das eine gegnerische Kreatur mit einem Energiestoß trifft, wenn sie sich dem Reichweitebereich nähert"
+    },
+    {
+      "key": "aegis",
+      "value": "Stellt ein wenig Stärke der Kuppel auf Kosten des nach dem Töten des Monsters gewonnenen Materials wieder her"
+    },
+    {
+      "key": "solus cores",
+      "value": "Erstellt zwei Kerne. Teleportiert dich zur Kuppel. Innerhalb von 55 Sekunden aufladen"
+    },
+    {
+      "key": "preon merger",
+      "value": "Erzeugt mit einer Chance ein gelbes Erz von einem getöteten Feind"
+    },
+    {
+      "key": "plasma missile launcher",
+      "value": "Feuert statt rotem Erz mehrere zielsuchende Plasmaraketen ab"
+    },
+    {
+      "key": "focused missile",
+      "value": "Chance, jedes Mal, wenn ein Feind getroffen wird, eine zielsuchende Plasmarakete abzufeuern"
+    },
+    {
+      "key": "protection piercer",
+      "value": "Zusätzlicher Schaden für den Feind, wenn er mehr als 90 % Gesundheit hat"
+    },
+    {
+      "key": "concentrated damage",
+      "value": "Wenn die Haltbarkeit des Schutzraums unter 20 % liegt, wird der Schaden gegen Feinde verdoppelt"
+    },
+    {
+      "key": "concentrated shots",
+      "value": "Wenn die Haltbarkeit des Schutzraums über 93 % liegt, verdoppelt sich die Angriffsgeschwindigkeit (Projektil-Nachladung)"
+    },
+    {
+      "key": "weak point",
+      "value": "Chance, doppelten Schaden zu verursachen"
+    },
+    {
+      "key": "resource elevator",
+      "value": "Erstellt einen speziellen Aufzug mit der Lieferung von Ressourcen mithilfe von Drohnen"
+    },
+    {
+      "key": "converter",
+      "value": "Bei der Reparatur der Kuppel feuert er mehrere zielsuchende Plasmaraketen ab, die aus alten, ersetzten Teilen der Kuppel hergestellt werden"
+    },
+
+    {
+      "key": "choose which part of the artifact to convert the material into",
+      "value": "Wählen Sie aus, in welchen Teil des Artefakts das Material umgewandelt werden soll"
+    },
+    {
+      "key": "you received part of the artifact",
+      "value": "Du hast einen Teil des Artefakts erhalten"
+    },
+    {
+      "key": "With it, you can create this artifact using ordinary resources in the Artifacts tab",
+      "value": "Damit können Sie dieses Artefakt mit gewöhnlichen Ressourcen auf der Registerkarte „Artefakte“ erstellen"
+    },
+
+
+    {
+      "key": "RESUME",
+      "value": "FORTSETZEN"
+    },
+    {
+      "key": "QUICK TIP",
+      "value": "KURZER TIPP"
+    },
+    {
+      "key": "MAIN MENU",
+      "value": "HAUPTMENÜ"
+    },
+    {
+      "key": "RESTART",
+      "value": "NEUSTART"
+    },
+    {
+      "key": "YOU DIED",
+      "value": "DU BIST GESTORBEN"
+    },
+
+
+    {
+      "key": "Extract",
+      "value": "   <color=orange>Extrakt</color>. Sammle Ressourcen, bringe sie zum Raffinierer in der Kuppel und setze sie mit Bedacht ein"
+    },
+    {
+      "key": "Upgrade",
+      "value": "   <color=orange>Aufrüstung</color>. Verbessern Sie Ihre Kuppelabwehr, Ihre Waffe, Ihren Bohrer und anderes, um den Wellen standzuhalten"
+    },
+    {
+      "key": "Survive",
+      "value": "   <color=orange>Überleben</color>. Seien Sie jedes Mal bereit, sich zu wehren, wenn eine Monsterwelle kommt"
+    },
+
+
+    {
+      "key": "Sayen",
+      "value": "<b><color=orange>Sayen</color></b>\nDein violetter Albtraum"
+    },
+    {
+      "key": "Eokcon",
+      "value": "<b><color=orange>Eokcon</color></b>\nEchte Hölle"
+    },
+    {
+      "key": "Getkra",
+      "value": "<b><color=orange>Getkra</color></b>\nSmaragdgrüne Weite"
+    },
+    {
+      "key": "Koita",
+      "value": "<b><color=orange>Koita</color></b>\nGrenzenloses Ödland"
+    },
+    {
+      "key": "Argen",
+      "value": "<b><color=orange>Argen</color></b>\nSeltsames Licht"
+    },
+    {
+      "key": "Fark",
+      "value": "<b><color=orange>Fark</color></b>\nKalte Gebiete"
+    }
+  ]
+}

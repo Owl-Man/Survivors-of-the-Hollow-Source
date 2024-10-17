@@ -1,0 +1,440 @@
+{
+	"items": [
+		{
+			"key": "PlayButton",
+			"value": "놀다"
+		},
+		{
+			"key": "SettingsButton",
+			"value": "설정"
+		},
+		{
+			"key": "CreditsButton",
+			"value": "학점"
+		},
+		{
+			"key": "ExitButton",
+			"value": "출구"
+		},
+
+		{
+			"key": "LandingSettings",
+			"value": "착륙 설정"
+		},
+		{
+			"key": "Land",
+			"value": "땅"
+		},
+		{
+			"key": "Inventory",
+			"value": "목록"
+		},
+
+		{
+			"key": "CHOOSE PLANET",
+			"value": "행성을 선택하세요"
+		},
+		{
+			"key": "Random",
+			"value": "무작위의"
+		},
+		{
+			"key": "(RECOMMENDED)",
+			"value": "(권장)"
+		},
+		{
+			"key": "MAX SURVIVED WAVES",
+			"value": "최대 생존 웨이브: "
+		},
+
+		{
+			"key": "CHOOSE SPECIAL UPGRADE",
+			"value": "특별 업그레이드 선택"
+		},
+		{
+			"key": "CHOOSE SETTING",
+			"value": "설정 선택"
+		},
+
+		{
+			"key": "U0",
+			"value": "아무것도"
+		},
+		{
+			"key": "U1",
+			"value": "제트팩의 이동 속도를 높이기 위해 연료를 개선했습니다.\n\n<color=orange>5웨이브에서 살아남기</color>"
+		},
+		{
+			"key": "U2",
+			"value": "다른 행성에서 발견되는 특수 재료 조합을 사용하여 Shelter의 최대 방어력(강도)을 30포인트 증가시킵니다.\n\n<color=orange>10번의 파도에서 살아남으세요</color>"
+		},
+		{
+			"key": "U3",
+			"value": "보다 효율적인 방법과 최신 장비를 사용하여 제련 시 확률적으로 1개가 아닌 2개의 재료 획득\n\n<color=orange>20번의 파도에서 살아남으십시오</color>"
+		},
+		{
+			"key": "U4",
+			"value": "누적 효과로 미사일의 피해량 증가\n\n<color=orange>28번의 파도에서 살아남으십시오</color>"
+		},
+		{
+			"key": "U5",
+			"value": "기본적으로 드릴 파워 증가\n\n<color=orange>하드 모드에서 25번의 웨이브에서 살아남으세요</color>"
+		},
+		{
+			"key": "U6",
+			"value": "각 실행을 시작할 때 원하는 하나의 아티팩트를 활성화하십시오.\n\n<color=orange>몬순 모드에서 Hamy(웨이브 30에서) 처치</color>"
+		},
+		
+		
+		{
+			"key": "GRAPHICS QUALITY",
+			"value": "그래픽 품질"
+		},
+		{
+			"key": "LOW",
+			"value": "낮은"
+		},
+		{
+			"key": "MEDIUM",
+			"value": "중간"
+		},
+		{
+			"key": "HIGH",
+			"value": "높은"
+		},
+		{
+			"key": "Music",
+			"value": "음악"
+		},
+		{
+			"key": "SFX",
+			"value": "효과음"
+		},
+
+		{
+			"key": "Recommended to play with headphones",
+			"value": "헤드폰으로 플레이하는 것이 좋습니다"
+		},
+
+		{
+			"key": "Analyzing planet",
+			"value": "행성 분석 중..."
+		},
+		{
+			"key": "Map generation",
+			"value": "지도 생성..."
+		},
+
+
+		{
+			"key": "Replenish Supplies",
+			"value": "보급품 보충"
+		},
+		{
+			"key": "OR",
+			"value": "또는"
+		},
+
+		
+		
+		{
+			"key": "Wave detector",
+			"value": "웨이브 디텍터"
+		},
+		{
+			"key": "DISTANCE",
+			"value": "거리"
+		},
+
+
+		{
+			"key": "Wave Cleared",
+			"value": "웨이브 클리어"
+		},
+		{
+			"key": "Dome Threat Detected",
+			"value": "돔 위협이 감지됨"
+		},
+
+
+		{
+			"key": "AchievmentDescriptionTemplate",
+			"value": "새로운 업적: <color=orange>{0}</color> 일 생존. 새로운 특별 업그레이드 가능 - <color=orange>{1}</color>"
+		},
+
+		{
+			"key": "Quickly restore",
+			"value": "신속하게 복원"
+		},
+		{
+			"key": "(clicking will automatically apply the recovery)",
+			"value": "(클릭하면 자동으로 복구가 적용됩니다)"
+		},
+
+
+		{
+			"key": "IMPROVEMENTS",
+			"value": "개선 사항"
+		},
+		{
+			"key": "CHOOSE IMPROVEMENT",
+			"value": "개선을 선택하십시오"
+		},
+		{
+			"key": "IMPROVE",
+			"value": "개선하다"
+		},
+		{
+			"key": "M. SPEED",
+			"value": "이동 속도"
+		},
+		{
+			"key": "DRILL",
+			"value": "송곳"
+		},
+		{
+			"key": "BULLET",
+			"value": "총알"
+		},
+		{
+			"key": "GUN",
+			"value": "총"
+		},
+		{
+			"key": "Shelter strength",
+			"value": "대피소\nHP"
+		},
+		{
+			"key": "Repair",
+			"value": "수리하다"
+		},
+		{
+			"key": "Jetpack Load Capacity",
+			"value": "제트팩\n적재 능력"
+		},
+
+
+		{
+			"key": "shelterHP",
+			"value": "대피소 표면의 강도(20) 증가"
+		},
+		{
+			"key": "speed",
+			"value": "제트팩 성능을 향상시켜 이동 속도를 높입니다"
+		},
+		{
+			"key": "drill",
+			"value": "업그레이드 된 드릴: 이전 것보다 낫습니다. 최소한 그렇게 보입니다"
+		},
+		{
+			"key": "gunPower",
+			"value": "업그레이드된 총탄: 데미지 증가"
+		},
+		{
+			"key": "gunRotateSpeed",
+			"value": "총기 회전 속도 증가"
+		},
+		{
+			"key": "gunReloadingSpeed",
+			"value": "총알 재장전 시간 감소"
+		},
+		{
+			"key": "jetpackLoadCapacity",
+			"value": "더 많은 자원으로 비행하기 위한 제트팩 적재 한도 증가"
+		},
+
+
+		{
+			"key": "Artifacts",
+			"value": "아티팩트"
+		},
+		{
+			"key": "CHOOSE ARTIFACT",
+			"value": "유물을 선택하세요"
+		},
+		{
+			"key": "ENABLE",
+			"value": "할 수 있게 하다"
+		},
+
+		{
+			"key": "ART_TIP",
+			"value": "아티팩트를 만들려면 아티팩트의 일부를 찾아야 합니다"
+		},
+
+
+		{
+			"key": "Unstable Tesla Coil Title",
+			"value": "불안정한 테슬라 코일"
+		},
+		{
+			"key": "Aegis Title",
+			"value": "보호"
+		},
+		{
+			"key": "Solus Cores Title",
+			"value": "Solus 코어"
+		},
+		{
+			"key": "Preon Merger Title",
+			"value": "프레온 합병"
+		},
+		{
+			"key": "Plasma Missile Launcher Title",
+			"value": "플라즈마 미사일 발사기"
+		},
+		{
+			"key": "Focused Missile Title",
+			"value": "집중 미사일"
+		},
+		{
+			"key": "Protection Piercer Title",
+			"value": "프로텍션 피어서"
+		},
+		{
+			"key": "Concentrated Damage Title",
+			"value": "집중 피해"
+		},
+		{
+			"key": "Concentrated Shots Title",
+			"value": "집중 사격"
+		},
+		{
+			"key": "Weak Point Title",
+			"value": "약점"
+		},
+		{
+			"key": "Resource Elevator Title",
+			"value": "리소스 엘리베이터"
+		},
+		{
+			"key": "Converter Title",
+			"value": "변환기"
+		},
+
+		{
+			"key": "unstable tesla coil",
+			"value": "도달 범위에 가까워지면 에너지 폭발로 적 생물을 공격하는 장치를 생성합니다"
+		},
+		{
+			"key": "aegis",
+			"value": "몬스터를 죽인 후 추출한 재료를 희생하여 돔의 강도를 약간 회복"
+		},
+		{
+			"key": "solus cores",
+			"value": "두 개의 코어를 생성합니다. 돔으로 텔레포트합니다. 55초 이내 충전"
+		},
+		{
+			"key": "preon merger",
+			"value": "처치한 적에게서 일정 확률로 노란색 광석 생성"
+		},
+		{
+			"key": "plasma missile launcher",
+			"value": "붉은 광석 대신 유도 플라즈마 미사일을 여러 발 발사합니다"
+		},
+		{
+			"key": "focused missile",
+			"value": "적을 공격할 때마다 호밍 플라즈마 미사일을 발사할 기회가 있습니다"
+		},
+		{
+			"key": "protection piercer",
+			"value": "적의 체력이 90% 이상일 경우 추가 피해"
+		},
+		{
+			"key": "concentrated damage",
+			"value": "쉘터의 내구도가 20% 이하일 때 적에게 2배 데미지"
+		},
+		{
+			"key": "concentrated shots",
+			"value": "대피소 내구도 93% 이상일 때 공격 속도 2배(발사체 재장전)"
+		},
+		{
+			"key": "weak point",
+			"value": "두 배의 피해를 줄 확률"
+		},
+		{
+			"key": "resource elevator",
+			"value": "드론을 활용한 자원배달로 특수엘리베이터 제작"
+		},
+		{
+			"key": "converter",
+			"value": "돔을 수리할 때 오래된 돔 부품을 교체하여 만든 호밍 플라즈마 미사일 여러 발을 발사합니다"
+		},
+
+
+		{
+			"key": "choose which part of the artifact to convert the material into",
+			"value": "재료를 변환할 유물의 부분을 선택하세요"
+		},
+		{
+			"key": "you received part of the artifact",
+			"value": "당신은 유물의 일부를 받았습니다"
+		},
+		{
+			"key": "With it, you can create this artifact using ordinary resources in the Artifacts tab",
+			"value": "그것으로 Artifacts 탭에서 일반 리소스를 사용하여 이 아티팩트를 만들 수 있습니다."
+		},
+
+
+		{
+			"key": "RESUME",
+			"value": "재개하다"
+		},
+		{
+			"key": "QUICK TIP",
+			"value": "빠른 팁"
+		},
+		{
+			"key": "MAIN MENU",
+			"value": "메인 메뉴"
+		},
+		{
+			"key": "RESTART",
+			"value": "재시작"
+		},
+		{
+			"key": "YOU DIED",
+			"value": "너는 죽었다"
+		},
+
+
+		{
+			"key": "Extract",
+			"value": "   <color=orange>발췌</color>. 자원을 얻어 돔에 있는 제련소로 가져가서 현명하게 사용하세요"
+		},
+		{
+			"key": "Upgrade",
+			"value": "   <color=orange>업그레이드</color>. 파도를 견딜 수 있도록 돔 방어, 총, 드릴 및 기타를 개선하십시오"
+		},
+		{
+			"key": "Survive",
+			"value": "   <color=orange>생존하다</color>. 몬스터의 무리가 올 때마다 반격할 준비를 하십시오"
+		},
+
+
+		{
+			"key": "Sayen",
+			"value": "<b><color=orange>Sayen</color></b>\n너의 보라색 악몽"
+		},
+		{
+			"key": "Eokcon",
+			"value": "<b><color=orange>Eokcon</color></b>\n진짜 지옥"
+		},
+		{
+			"key": "Getkra",
+			"value": "<b><color=orange>Getkra</color></b>\n에메랄드 창공"
+		},
+		{
+			"key": "Koita",
+			"value": "<b><color=orange>Koita</color></b>\n끝없는 황무지"
+		},
+		{
+			"key": "Argen",
+			"value": "<b><color=orange>Argen</color></b>\n이상한 빛"
+		},
+		{
+			"key": "Fark",
+			"value": "<b><color=orange>Fark</color></b>\n콜드 랜드"
+		}
+	]
+}

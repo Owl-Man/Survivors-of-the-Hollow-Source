@@ -1,0 +1,440 @@
+{
+	"items": [
+		{
+			"key": "PlayButton",
+			"value": "Oyun"
+		},
+		{
+			"key": "SettingsButton",
+			"value": "Ayarlar"
+		},
+		{
+			"key": "CreditsButton",
+			"value": "Kredi"
+		},
+		{
+			"key": "ExitButton",
+			"value": "Çıkış"
+		},
+
+		{
+			"key": "LandingSettings",
+			"value": "İniş Ayarları"
+		},
+		{
+			"key": "Land",
+			"value": "Kara"
+		},
+		{
+			"key": "Inventory",
+			"value": "Envanter"
+		},
+
+		{
+			"key": "CHOOSE PLANET",
+			"value": "GEZEGEN SEÇ"
+		},
+		{
+			"key": "Random",
+			"value": "Rastgele"
+		},
+		{
+			"key": "(RECOMMENDED)",
+			"value": "(TAVSİYE EDİLEN)"
+		},
+		{
+			"key": "MAX SURVIVED WAVES",
+			"value": "MAKS HAYATTA KALAN DALGA: "
+		},
+
+		{
+			"key": "CHOOSE SPECIAL UPGRADE",
+			"value": "ÖZEL YÜKSELTME SEÇİN"
+		},
+		{
+			"key": "CHOOSE SETTING",
+			"value": "AYARI SEÇİN"
+		},
+
+		{
+			"key": "U0",
+			"value": "Hiç bir şey"
+		},
+		{
+			"key": "U1",
+			"value": "Jetpack hareket hızını artırmak için geliştirilmiş yakıt\n\n<color=orange>5 dalgada hayatta kal</color>"
+		},
+		{
+			"key": "U2",
+			"value": "Farklı gezegenlerde bulunan özel bir malzeme kombinasyonunu kullanarak Barınak'ın maksimum savunmasını (gücünü) 30 puan artırın\n\n<color=orange>10 dalgada hayatta kal</color>"
+		},
+		{
+			"key": "U3",
+			"value": "Daha verimli bir yöntem ve en yeni ekipman kullanarak rafine ederken bir yerine iki malzeme elde etme şansı\n\n<color=orange>20 dalgada hayatta kal</color>"
+		},
+		{
+			"key": "U4",
+			"value": "Kümülatif bir etki ile füze tarafından verilen hasarı artırır\n\n<color=orange>28 dalgada hayatta kal</color>"
+		},
+		{
+			"key": "U5",
+			"value": "Matkap gücünü varsayılan olarak artırır\n\n<color=orange>Hard modda 25 dalgada hayatta kalın</color>"
+		},
+		{
+			"key": "U6",
+			"value": "Her çalıştırmanın başında seçtiğiniz herhangi bir yapıyı etkinleştirin\n\n<color=orange>Monsoon modunda Hamy'yi (dalga 30'da) yen</color>"
+		},
+		
+		
+		{
+			"key": "GRAPHICS QUALITY",
+			"value": "GRAFİK KALİTESİ"
+		},
+		{
+			"key": "LOW",
+			"value": "DÜŞÜK"
+		},
+		{
+			"key": "MEDIUM",
+			"value": "ORTA"
+		},
+		{
+			"key": "HIGH",
+			"value": "YÜKSEK"
+		},
+		{
+			"key": "Music",
+			"value": "Müzik"
+		},
+		{
+			"key": "SFX",
+			"value": "Ses"
+		},
+
+		{
+			"key": "Recommended to play with headphones",
+			"value": "Kulaklıkla oynamanız önerilir"
+		},
+
+		{
+			"key": "Analyzing planet",
+			"value": "Gezegen analiz ediliyor..."
+		},
+		{
+			"key": "Map generation",
+			"value": "Harita oluşturma..."
+		},
+
+
+		{
+			"key": "Replenish Supplies",
+			"value": "Sarf Malzemelerini Doldurun"
+		},
+		{
+			"key": "OR",
+			"value": "VEYA"
+		},
+
+
+
+		{
+			"key": "Wave detector",
+			"value": "Dalga dedektörü"
+		},
+		{
+			"key": "DISTANCE",
+			"value": "MESAFE"
+		},
+
+
+		{
+			"key": "Wave Cleared",
+			"value": "Dalga Temizlendi"
+		},
+		{
+			"key": "Dome Threat Detected",
+			"value": "Dome Tehdidi Algılandı"
+		},
+
+
+		{
+			"key": "AchievmentDescriptionTemplate",
+			"value": "Yeni başarı: hayatta kal <color=orange>{0}</color> günler. Yeni özel yükseltme mevcut - <color=orange>{1}</color>"
+		},
+
+
+		{
+			"key": "Quickly restore",
+			"value": "Hızla geri yükle"
+		},
+		{
+			"key": "(clicking will automatically apply the recovery)",
+			"value": "(tıklama, kurtarma işlemini otomatik olarak uygulayacaktır)"
+		},
+
+
+		{
+			"key": "IMPROVEMENTS",
+			"value": "İYİLEŞTİRMELER"
+		},
+		{
+			"key": "CHOOSE IMPROVEMENT",
+			"value": "İYİLEŞTİRMEYİ SEÇİN"
+		},
+		{
+			"key": "IMPROVE",
+			"value": "GELİŞTİRMEK"
+		},
+		{
+			"key": "M. SPEED",
+			"value": "H. HIZI"
+		},
+		{
+			"key": "DRILL",
+			"value": "DELMEK"
+		},
+		{
+			"key": "BULLET",
+			"value": "MERMİ"
+		},
+		{
+			"key": "GUN",
+			"value": "SİLAH"
+		},
+		{
+			"key": "Shelter strength",
+			"value": "Barınak\ngücü"
+		},
+		{
+			"key": "Repair",
+			"value": "Tamirat"
+		},
+		{
+			"key": "Jetpack Load Capacity",
+			"value": "Jetpack\nYükleme kapasitesi"
+		},
+
+
+		{
+			"key": "shelterHP",
+			"value": "Barınak yüzeyinin mukavemetini (20) arttırmak"
+		},
+		{
+			"key": "speed",
+			"value": "Jetpack performansını iyileştirerek hareket hızını artırır"
+		},
+		{
+			"key": "drill",
+			"value": "Yükseltilmiş tatbikat: öncekinden daha iyi, en azından öyle görünüyor"
+		},
+		{
+			"key": "gunPower",
+			"value": "Yükseltilmiş silah mermisi: hasarı artırın"
+		},
+		{
+			"key": "gunRotateSpeed",
+			"value": "Tabanca dönüş hızını artırır"
+		},
+		{
+			"key": "gunReloadingSpeed",
+			"value": "Mermi yeniden yükleme süresini azaltır"
+		},
+		{
+			"key": "jetpackLoadCapacity",
+			"value": "Daha fazla kaynakla uçmak için jetpack yük sınırını artırır"
+		},
+
+		{
+			"key": "Artifacts",
+			"value": "Artefaktlar"
+		},
+		{
+			"key": "CHOOSE ARTIFACT",
+			"value": "ARTEFAKTLAR SEÇ"
+		},
+		{
+			"key": "ENABLE",
+			"value": "ETKİNLEŞTİR"
+		},
+
+		{
+			"key": "ART_TIP",
+			"value": "Bir eser yaratmak için onun bir parçasını bulmanız gerekir"
+		},
+
+
+		{
+			"key": "Unstable Tesla Coil Title",
+			"value": "Kararsız Tesla Bobini"
+		},
+		{
+			"key": "Aegis Title",
+			"value": "Kalkan"
+		},
+		{
+			"key": "Solus Cores Title",
+			"value": "Solus Çekirdekleri"
+		},
+		{
+			"key": "Preon Merger Title",
+			"value": "Preon Birleşmesi"
+		},
+		{
+			"key": "Plasma Missile Launcher Title",
+			"value": "Plazma Füze Fırlatıcı"
+		},
+		{
+			"key": "Focused Missile Title",
+			"value": "Odaklanmış Füze"
+		},
+		{
+			"key": "Protection Piercer Title",
+			"value": "Koruma Delici"
+		},
+		{
+			"key": "Concentrated Damage Title",
+			"value": "Konsantre Hasar"
+		},
+		{
+			"key": "Concentrated Shots Title",
+			"value": "Konsantre Atışlar"
+		},
+		{
+			"key": "Weak Point Title",
+			"value": "Zayıf nokta"
+		},
+		{
+			"key": "Resource Elevator Title",
+			"value": "Kaynaklar Asansörü"
+		},
+		{
+			"key": "Converter Title",
+			"value": "Dönüştürücü"
+		},
+
+		{
+			"key": "unstable tesla coil",
+			"value": "Bir düşman yaratığa, erişim alanına yaklaşırlarsa bir enerji patlamasıyla saldıran bir cihaz oluşturur."
+		},
+		{
+			"key": "aegis",
+			"value": "Canavarı öldürdükten sonra çıkarılan malzeme pahasına kubbenin gücünü biraz geri kazandırır"
+		},
+		{
+			"key": "solus cores",
+			"value": "İki çekirdek oluşturur. Sizi kubbeye ışınlar. 55 saniye içinde şarj edin"
+		},
+		{
+			"key": "preon merger",
+			"value": "Katledilen bir düşmandan şans eseri sarı bir cevher oluşturur"
+		},
+		{
+			"key": "plasma missile launcher",
+			"value": "Kırmızı cevher yerine birkaç güdümlü plazma füzesi ateşler"
+		},
+		{
+			"key": "focused missile",
+			"value": "Bir düşmana her vurulduğunda güdümlü bir plazma füzesi ateşleme şansı"
+		},
+		{
+			"key": "protection piercer",
+			"value": "%90'dan fazla sağlığa sahipse düşmana ek hasar"
+		},
+		{
+			"key": "concentrated damage",
+			"value": "Sığınağın dayanıklılığı %20'nin altına düştüğünde, düşmanlara karşı iki kat hasar"
+		},
+		{
+			"key": "concentrated shots",
+			"value": "Siper %93 dayanıklılığın üzerinde olduğunda, çifte saldırı hızı (mermi yeniden yükleme)"
+		},
+		{
+			"key": "weak point",
+			"value": "Çifte hasar verme şansı"
+		},
+		{
+			"key": "resource elevator",
+			"value": "Dronları kullanarak kaynakların teslimi ile özel bir asansör oluşturur"
+		},
+		{
+			"key": "converter",
+			"value": "Kubbeyi onarırken, kubbenin eski, değiştirilen parçalarından yapılmış birkaç güdümlü plazma füzesi ateşlenir"
+		},
+
+
+		{
+			"key": "choose which part of the artifact to convert the material into",
+			"value": "materyalin eserin hangi kısmına dönüştürüleceğini seçin"
+		},
+		{
+			"key": "you received part of the artifact",
+			"value": "Artefaktin bir kısmını aldınız"
+		},
+		{
+			"key": "With it, you can create this artifact using ordinary resources in the Artifacts tab",
+			"value": "With it, you can create this artifact using ordinary resources in the Artifacts tab"
+		},
+
+
+		{
+			"key": "RESUME",
+			"value": "SÜRDÜRMEK"
+		},
+		{
+			"key": "QUICK TIP",
+			"value": "HIZLI İPUCU"
+		},
+		{
+			"key": "MAIN MENU",
+			"value": "MENÜ"
+		},
+		{
+			"key": "RESTART",
+			"value": "TEKRAR"
+		},
+		{
+			"key": "YOU DIED",
+			"value": "ÖLDÜN"
+		},
+
+
+		{
+			"key": "Extract",
+			"value": "   <color=orange>Çıkarmak</color>. Kaynakları alın, onları kubbedeki arıtıcıya götürün ve akıllıca kullanın"
+		},
+		{
+			"key": "Upgrade",
+			"value": "   <color=orange>Yükselt</color>. Dalgalara dayanmak için kubbe savunmalarınızı, tabancanızı, matkabınızı ve diğerlerini geliştirin"
+		},
+		{
+			"key": "Survive",
+			"value": "   <color=orange>Hayatta kalmak</color>. Ne zaman bir canavar dalgası gelse, karşılık vermeye hazır ol"
+		},
+
+
+		{
+			"key": "Sayen",
+			"value": "<b><color=orange>Sayen</color></b>\nMenekşe kabusun"
+		},
+		{
+			"key": "Eokcon",
+			"value": "<b><color=orange>Eokcon</color></b>\nGerçek cehennem"
+		},
+		{
+			"key": "Getkra",
+			"value": "<b><color=orange>Getkra</color></b>\nZümrüt genişliği"
+		},
+		{
+			"key": "Koita",
+			"value": "<b><color=orange>Koita</color></b>\nSınırsız çorak arazi"
+		},
+		{
+			"key": "Argen",
+			"value": "<b><color=orange>Argen</color></b>\nGarip ışık"
+		},
+		{
+			"key": "Fark",
+			"value": "<b><color=orange>Fark</color></b>\nSoğuk Topraklar"
+		}
+	]
+}

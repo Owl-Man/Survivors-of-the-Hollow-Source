@@ -1,0 +1,439 @@
+{
+	"items": [
+		{
+			"key": "PlayButton",
+			"value": "Игра"
+		},
+		{
+			"key": "SettingsButton",
+			"value": "Настройки"
+		},
+		{
+			"key": "CreditsButton",
+			"value": "Титры"
+		},
+		{
+			"key": "ExitButton",
+			"value": "Выход"
+		},
+
+		{
+			"key": "LandingSettings",
+			"value": "Настройки посадки"
+		},
+		{
+			"key": "Land",
+			"value": "Посадка"
+		},
+		{
+			"key": "Inventory",
+			"value": "Инвентарь"
+		},
+
+		{
+			"key": "CHOOSE PLANET",
+			"value": "ВЫБЕРИТЕ ПЛАНЕТУ"
+		},
+		{
+			"key": "Random",
+			"value": "Случайный"
+		},
+		{
+			"key": "(RECOMMENDED)",
+			"value": "(РЕКОМЕНДУЕТСЯ)"
+		},
+		{
+			"key": "MAX SURVIVED WAVES",
+			"value": "МАКС. ПЕРЕЖИТЫХ ВОЛН "
+		},
+
+		{
+			"key": "CHOOSE SPECIAL UPGRADE",
+			"value": "ВЫБЕРИТЕ СПЕЦИАЛЬНОЕ УЛУЧШЕНИЕ"
+		},
+		{
+			"key": "CHOOSE SETTING",
+			"value": "ВЫБЕРИТЕ НАСТРОЙКУ"
+		},
+
+		{
+			"key": "U0",
+			"value": "Ничего"
+		},
+		{
+			"key": "U1",
+			"value": "Улучшенное топливо для увеличения скорости движения реактивного ранца.\n\n<color=orange>Пережить 5 волн</color>"
+		},
+		{
+			"key": "U2",
+			"value": "Увеличьте максимальную защиту (прочность) Убежища на 30 пунктов за счет использования особой комбинации материалов, найденных на разных планетах.\n\n<color=orange>Пережить 10 волн</color>"
+		},
+		{
+			"key": "U3",
+			"value": "Шанс получить два материала вместо одного при переработке с использованием более эффективного метода и новейшего оборудования.\n\n<color=orange>Пережить 20 волн</color>"
+		},
+		{
+			"key": "U4",
+			"value": "Увеличивает урон, наносимый снарядом, с помощью кумулятивного эффекта.\n\n<color=orange>Пережить 28 волн</color>"
+		},
+		{
+			"key": "U5",
+			"value": "Увеличивает мощность бура по умолчанию\n\n<color=orange>Пережить 25 волн в Hard режиме.</color>"
+		},
+		{
+			"key": "U6",
+			"value": "Активируйте один любой артефакт по вашему выбору в начале каждого запуска\n\n<color=orange>Победите Hamy (на 30-й волне) в режиме Monsoon</color>"
+		},
+		
+		
+		{
+			"key": "GRAPHICS QUALITY",
+			"value": "КАЧЕСТВО ГРАФИКИ"
+		},
+		{
+			"key": "LOW",
+			"value": "НИЗКОЕ"
+		},
+		{
+			"key": "MEDIUM",
+			"value": "СРЕДНЕЕ"
+		},
+		{
+			"key": "HIGH",
+			"value": "ВЫСОКОЕ"
+		},
+		{
+			"key": "Music",
+			"value": "Музыка"
+		},
+		{
+			"key": "SFX",
+			"value": "SFX"
+		},
+
+		{
+			"key": "Recommended to play with headphones",
+			"value": "Рекомендуется играть в наушниках"
+		},
+
+		{
+			"key": "Analyzing planet",
+			"value": "Анализ планеты..."
+		},
+		{
+			"key": "Map generation",
+			"value": "Генерация карты..."
+		},
+
+
+		{
+			"key": "Replenish Supplies",
+			"value": "Пополнить запасы"
+		},
+		{
+			"key": "OR",
+			"value": "ИЛИ"
+		},
+
+		
+		
+		{
+			"key": "Wave detector",
+			"value": "Детектор волн"
+		},
+		{
+			"key": "DISTANCE",
+			"value": "ДИСТАНЦИЯ"
+		},
+
+
+		{
+			"key": "Wave Cleared",
+			"value": "Волна зачищена"
+		},
+		{
+			"key": "Dome Threat Detected",
+			"value": "Обнаружена угроза куполу"
+		},
+
+
+		{
+			"key": "AchievmentDescriptionTemplate",
+			"value": "Новое достижение: выжить <color=orange>{0}</color> дней. Доступен новый специальный апгрейд - <color=orange>{1}</color>"
+		},
+
+		{
+			"key": "Quickly restore",
+			"value": "Быстро восстановить"
+		},
+		{
+			"key": "(clicking will automatically apply the recovery)",
+			"value": "(нажатие сразу применит восстановление)"
+		},
+
+
+		{
+			"key": "IMPROVEMENTS",
+			"value": "УЛУЧШЕНИЯ"
+		},
+		{
+			"key": "CHOOSE IMPROVEMENT",
+			"value": "ВЫБЕРИТЕ УЛУЧШЕНИЕ"
+		},
+		{
+			"key": "IMPROVE",
+			"value": "УЛУЧШИТЬ"
+		},
+		{
+			"key": "M. SPEED",
+			"value": "СКОРОСТЬ П-НИЯ"
+		},
+		{
+			"key": "DRILL",
+			"value": "БУР"
+		},
+		{
+			"key": "BULLET",
+			"value": "СНАРЯД"
+		},
+		{
+			"key": "GUN",
+			"value": "ОРУДИЕ"
+		},
+		{
+			"key": "Shelter strength",
+			"value": "Прочность\nубежища"
+		},
+		{
+			"key": "Repair",
+			"value": "Ремонт"
+		},
+		{
+			"key": "Jetpack Load Capacity",
+			"value": "Грузоподъемность\nджетпака"
+		},
+
+
+		{
+			"key": "shelterHP",
+			"value": "Повышение прочности (20) поверхности укрытия"
+		},
+		{
+			"key": "speed",
+			"value": "Увеличивает скорость передвижения за счет улучшения характеристик реактивного ранца."
+		},
+		{
+			"key": "drill",
+			"value": "Улучшенный бур: лучше предыдущего, по крайней мере так выглядит"
+		},
+		{
+			"key": "gunPower",
+			"value": "Улучшенный снаряд: увеличение урона"
+		},
+		{
+			"key": "gunRotateSpeed",
+			"value": "Увеличивает скорость вращения орудия"
+		},
+		{
+			"key": "gunReloadingSpeed",
+			"value": "Уменьшает время перезарядки снаряда"
+		},
+		{
+			"key": "jetpackLoadCapacity",
+			"value": "Увеличивает лимит загрузки реактивного ранца для полета с большим количеством ресурсов"
+		},
+
+		{
+			"key": "Artifacts",
+			"value": "Артефакты"
+		},
+		{
+			"key": "CHOOSE ARTIFACT",
+			"value": "ВЫБЕРИТЕ АРТЕФАКТ"
+		},
+		{
+			"key": "ENABLE",
+			"value": "ВКЛЮЧИТЬ"
+		},
+
+		{
+			"key": "ART_TIP",
+			"value": "Чтобы создать артефакт, нужно найти его часть"
+		},
+
+
+		{
+			"key": "Unstable Tesla Coil Title",
+			"value": "Нестабильная катушка Теслы"
+		},
+		{
+			"key": "Aegis Title",
+			"value": "Покров"
+		},
+		{
+			"key": "Solus Cores Title",
+			"value": "Солус Ядра"
+		},
+		{
+			"key": "Preon Merger Title",
+			"value": "Объединитель преон"
+		},
+		{
+			"key": "Plasma Missile Launcher Title",
+			"value": "Плазменная ракетная установка"
+		},
+		{
+			"key": "Focused Missile Title",
+			"value": "Сфокусированная ракета"
+		},
+		{
+			"key": "Protection Piercer Title",
+			"value": "Уничтожение брони"
+		},
+		{
+			"key": "Concentrated Damage Title",
+			"value": "Концентрированный урон"
+		},
+		{
+			"key": "Concentrated Shots Title",
+			"value": "Концентрированные выстрелы"
+		},
+		{
+			"key": "Weak Point Title",
+			"value": "Слабое место"
+		},
+		{
+			"key": "Resource Elevator Title",
+			"value": "Лифт ресурсов"
+		},
+		{
+			"key": "Converter Title",
+			"value": "Конвертер"
+		},
+
+		{
+			"key": "unstable tesla coil",
+			"value": "Создает устройство, которое поражает вражеское существо электрическим разрядом, если оно приближается к области досягаемости"
+		},
+		{
+			"key": "aegis",
+			"value": "Немного восстанавливает прочность купола за счет материала, добытого после убийства монстра"
+		},
+		{
+			"key": "solus cores",
+			"value": "Создает два ядра. Телепортирует вас в купол. Перезарядка в течение 55 секунд"
+		},
+		{
+			"key": "preon merger",
+			"value": "Создает с шансом желтую руду из убитого врага"
+		},
+		{
+			"key": "plasma missile launcher",
+			"value": "Запускает несколько самонаводящихся плазменных ракет за красную руду"
+		},
+		{
+			"key": "focused missile",
+			"value": "Шанс выстрелить самонаводящейся плазменной ракетой каждый раз, когда враг поражен"
+		},
+		{
+			"key": "protection piercer",
+			"value": "Дополнительный урон противнику, если у него больше 90% здоровья"
+		},
+		{
+			"key": "concentrated damage",
+			"value": "При прочности убежища ниже 20%, двойной урон по врагам"
+		},
+		{
+			"key": "concentrated shots",
+			"value": "При прочности убежища выше 93% скорость атаки удваивается (перезарядка снаряда)"
+		},
+		{
+			"key": "weak point",
+			"value": "Шанс нанести двойной урон"
+		},
+		{
+			"key": "resource elevator",
+			"value": "Создает специальный лифт с доставкой ресурсов с помощью дронов"
+		},
+		{
+			"key": "converter",
+			"value": "При ремонте купола выпускает несколько самонаводящихся плазменных ракет, сделанных из старых, замененных частей купола"
+		},
+
+
+		{
+			"key": "choose which part of the artifact to convert the material into",
+			"value": "выберите, в какую часть артефакта преобразовать материал"
+		},
+		{
+			"key": "you received part of the artifact",
+			"value": "вы получили часть артефакта"
+		},
+		{
+			"key": "With it, you can create this artifact using ordinary resources in the Artifacts tab",
+			"value": "С его помощью вы можете создать этот артефакт, используя обычные ресурсы во вкладке Артефакты"
+		},
+
+
+		{
+			"key": "RESUME",
+			"value": "ПРОДОЛЖИТЬ"
+		},
+		{
+			"key": "QUICK TIP",
+			"value": "СОВЕТ"
+		},
+		{
+			"key": "MAIN MENU",
+			"value": "МЕНЮ"
+		},
+		{
+			"key": "RESTART",
+			"value": "ЗАНОВО"
+		},
+		{
+			"key": "YOU DIED",
+			"value": "ВЫ УМЕРЛИ"
+		},
+
+
+		{
+			"key": "Extract",
+			"value": "   <color=orange>Добывай</color>. Добывайте ресурсы, отнесите их к переработчику в куполе и используйте с умом"
+		},
+		{
+			"key": "Upgrade",
+			"value": "   <color=orange>Улучшай</color>. Улучшай защиту своего купола, оружие, бур и другое, чтобы противостоять волнам"
+		},
+		{
+			"key": "Survive",
+			"value": "   <color=orange>Выживай</color>. Каждое определенное время приходит волна монстров, будь готов дать отпор"
+		},
+
+
+		{
+			"key": "Sayen",
+			"value": "<b><color=orange>Sayen</color></b>\nТвой фиолетовый кошмар"
+		},
+		{
+			"key": "Eokcon",
+			"value": "<b><color=orange>Eokcon</color></b>\nНастоящий ад"
+		},
+		{
+			"key": "Getkra",
+			"value": "<b><color=orange>Getkra</color></b>\nИзумрудная гладь"
+		},
+		{
+			"key": "Koita",
+			"value": "<b><color=orange>Koita</color></b>\nБескрайняя пустошь"
+		},
+		{
+			"key": "Argen",
+			"value": "<b><color=orange>Argen</color></b>\nСтранный свет"
+		},
+		{
+			"key": "Fark",
+			"value": "<b><color=orange>Fark</color></b>\nХолодные земли"
+		}
+	]
+}

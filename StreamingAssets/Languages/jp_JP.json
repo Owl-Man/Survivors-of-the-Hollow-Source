@@ -1,0 +1,438 @@
+{
+	"items": [
+		{
+			"key": "PlayButton",
+			"value": "遊ぶ"
+		},
+		{
+			"key": "SettingsButton",
+			"value": "設定"
+		},
+		{
+			"key": "CreditsButton",
+			"value": "クレジット"
+		},
+		{
+			"key": "ExitButton",
+			"value": "出口"
+		},
+
+		{
+			"key": "LandingSettings",
+			"value": "着陸設定"
+		},
+		{
+			"key": "Land",
+			"value": "土地"
+		},
+		{
+			"key": "Inventory",
+			"value": "在庫"
+		},
+
+		{
+			"key": "CHOOSE PLANET",
+			"value": "惑星を選択してください"
+		},
+		{
+			"key": "Random",
+			"value": "ランダム"
+		},
+		{
+			"key": "(RECOMMENDED)",
+			"value": "(おすすめされた)"
+		},
+		{
+			"key": "MAX SURVIVED WAVES",
+			"value": "最大生存ウェーブ数: "
+		},
+
+		{
+			"key": "CHOOSE SPECIAL UPGRADE",
+			"value": "特別アップグレードの選択"
+		},
+		{
+			"key": "CHOOSE SETTING",
+			"value": "設定を選択してください"
+		},
+
+		{
+			"key": "U0",
+			"value": "なし"
+		},
+		{
+			"key": "U1",
+			"value": "燃料を改良してジェットパックの移動速度を向上\n\n<color=orange>5 ウェーブを生き残る</color>"
+		},
+		{
+			"key": "U2",
+			"value": "さまざまな惑星で見つかった材料の特別な組み合わせを使用することで、シェルターの最大防御力 (強度) を 30 ポイント増加させます。\n\n<color=orange>10回のウェーブを生き残る</color>"
+		},
+		{
+			"key": "U3",
+			"value": "より効率的な方法と最新の機器を使用して精製すると、1 つの素材ではなく 2 つの素材を入手できるチャンスがあります\n\n<color=orange>20 回のウェーブを生き残る</color>"
+		},
+		{
+			"key": "U4",
+			"value": "累積効果によりミサイルによるダメージが増加する\n\n<color=orange>28 回のウェーブを生き延びる</color>"
+		},
+		{
+			"key": "U5",
+			"value": "デフォルトでドリルパワーが増加します\n\n<color=orange>ハードモードで 25 ウェーブ生き残る</color>"
+		},
+		{
+			"key": "U6",
+			"value": "各実行の開始時に、選択したアーティファクトを 1 つアクティブ化します\n\n<color=orange>モンスーンモードでハミィを倒す（ウェーブ30）</color>"
+		},
+		
+		{
+			"key": "GRAPHICS QUALITY",
+			"value": "グラフィックの質"
+		},
+		{
+			"key": "LOW",
+			"value": "低い"
+		},
+		{
+			"key": "MEDIUM",
+			"value": "中"
+		},
+		{
+			"key": "HIGH",
+			"value": "高"
+		},
+		{
+			"key": "Music",
+			"value": "音楽"
+		},
+		{
+			"key": "SFX",
+			"value": "音"
+		},
+
+		{
+			"key": "Recommended to play with headphones",
+			"value": "ヘッドフォンでのプレイを推奨"
+		},
+
+		{
+			"key": "Analyzing planet",
+			"value": "惑星を解析しています..."
+		},
+		{
+			"key": "Map generation",
+			"value": "マップ生成中..."
+		},
+
+
+		{
+			"key": "Replenish Supplies",
+			"value": "補給物資を補充する"
+		},
+		{
+			"key": "OR",
+			"value": "または"
+		},
+
+		
+		
+		{
+			"key": "Wave detector",
+			"value": "波動探知機"
+		},
+		{
+			"key": "DISTANCE",
+			"value": "距離"
+		},
+
+
+		{
+			"key": "Wave Cleared",
+			"value": "ウェーブがクリアされました"
+		},
+		{
+			"key": "Dome Threat Detected",
+			"value": "ドームの脅威が検出されました"
+		},
+
+
+		{
+			"key": "AchievmentDescriptionTemplate",
+			"value": "新しい実績: <color=orange>{0}</color> 日間生存. 新しい特別アップグレードが利用可能 - <color=orange>{1}</color>"
+		},
+
+		{
+			"key": "Quickly restore",
+			"value": "素早く復元する"
+		},
+		{
+			"key": "(clicking will automatically apply the recovery)",
+			"value": "(クリックすると自動的に回復が適用されます)"
+		},
+
+
+		{
+			"key": "IMPROVEMENTS",
+			"value": "改善"
+		},
+		{
+			"key": "CHOOSE IMPROVEMENT",
+			"value": "改善を選択してください"
+		},
+		{
+			"key": "IMPROVE",
+			"value": "改善する"
+		},
+		{
+			"key": "M. SPEED",
+			"value": "移動速度"
+		},
+		{
+			"key": "DRILL",
+			"value": "ドリル"
+		},
+		{
+			"key": "BULLET",
+			"value": "銃弾"
+		},
+		{
+			"key": "GUN",
+			"value": "銃"
+		},
+		{
+			"key": "Shelter strength",
+			"value": "シェルタ\nーの強度"
+		},
+		{
+			"key": "Repair",
+			"value": "修理"
+		},
+		{
+			"key": "Jetpack Load Capacity",
+			"value": "ジェットパック\n負荷容量"
+		},
+
+
+		{
+			"key": "shelterHP",
+			"value": "シェルターの表面の強度を高める (20)"
+		},
+		{
+			"key": "speed",
+			"value": "ジェットパックの性能を向上させることで移動速度を向上させます"
+		},
+		{
+			"key": "drill",
+			"value": "アップグレードされたドリル: 以前のドリルよりも優れています、少なくともそのように見えます"
+		},
+		{
+			"key": "gunPower",
+			"value": "アップグレードされた銃弾：ダメージが増加"
+		},
+		{
+			"key": "gunRotateSpeed",
+			"value": "銃の回転速度が増加します"
+		},
+		{
+			"key": "gunReloadingSpeed",
+			"value": "弾丸のリロード時間を短縮します"
+		},
+		{
+			"key": "jetpackLoadCapacity",
+			"value": "より多くのリソースで飛行するためにジェットパックの負荷制限を増加します"
+		},
+
+		{
+			"key": "Artifacts",
+			"value": "アーティファクト"
+		},
+		{
+			"key": "CHOOSE ARTIFACT",
+			"value": "アーティファクトを選択"
+		},
+		{
+			"key": "ENABLE",
+			"value": "有効にする"
+		},
+
+		{
+			"key": "ART_TIP",
+			"value": "アーティファクトを作成するには、アーティファクトの一部を見つける必要があります"
+		},
+
+
+		{
+			"key": "Unstable Tesla Coil Title",
+			"value": "不安定なテスラコイル"
+		},
+		{
+			"key": "Aegis Title",
+			"value": "イージス"
+		},
+		{
+			"key": "Solus Cores Title",
+			"value": "Solus コア"
+		},
+		{
+			"key": "Preon Merger Title",
+			"value": "プレオン合併"
+		},
+		{
+			"key": "Plasma Missile Launcher Title",
+			"value": "プラズマミサイルランチャー"
+		},
+		{
+			"key": "Focused Missile Title",
+			"value": "焦点を合わせたミサイル"
+		},
+		{
+			"key": "Protection Piercer Title",
+			"value": "プロテクションピアサー"
+		},
+		{
+			"key": "Concentrated Damage Title",
+			"value": "集中ダメージ"
+		},
+		{
+			"key": "Concentrated Shots Title",
+			"value": "集中射撃"
+		},
+		{
+			"key": "Weak Point Title",
+			"value": "弱点"
+		},
+		{
+			"key": "Resource Elevator Title",
+			"value": "リソースエレベーター"
+		},
+		{
+			"key": "Converter Title",
+			"value": "コンバータ"
+		},
+
+		{
+			"key": "unstable tesla coil",
+			"value": "敵クリーチャーが到達範囲に近づくとエネルギー爆発で攻撃する装置を作成します"
+		},
+		{
+			"key": "aegis",
+			"value": "モンスターを倒した後に抽出された素材を犠牲にしてドームの強度を少し回復します"
+		},
+		{
+			"key": "solus cores",
+			"value": "2 つのコアを作成します。 ドームにテレポートします。 55秒以内に充電してください"
+		},
+		{
+			"key": "preon merger",
+			"value": "倒した敵から確率で黄色い鉱石を生成する"
+		},
+		{
+			"key": "plasma missile launcher",
+			"value": "赤い鉱石の代わりにホーミングプラズマミサイルを数発発射する"
+		},
+		{
+			"key": "focused missile",
+			"value": "敵が攻撃を受けるたびにホーミングプラズマミサイルを発射するチャンス"
+		},
+		{
+			"key": "protection piercer",
+			"value": "敵の体力が90%以上の場合、追加ダメージ"
+		},
+		{
+			"key": "concentrated damage",
+			"value": "シェルターの耐久力が20%未満の場合、敵に対するダメージが2倍になる"
+		},
+		{
+			"key": "concentrated shots",
+			"value": "シェルターの耐久性が 93% を超えると、攻撃速度が 2 倍になります (発射体のリロード)"
+		},
+		{
+			"key": "weak point",
+			"value": "2倍のダメージを与えるチャンス"
+		},
+		{
+			"key": "resource elevator",
+			"value": "ドローンを使用して資源を配送する特別なエレベーターを作成します"
+		},
+		{
+			"key": "converter",
+			"value": "ドームを修理する際、ドームの古い交換部品から作られたホーミングプラズマミサイルを数発発射する"
+		},
+
+
+		{
+			"key": "choose which part of the artifact to convert the material into",
+			"value": "マテリアルを変換するアーティファクトの部分を選択します"
+		},
+		{
+			"key": "you received part of the artifact",
+			"value": "アーティファクトの一部を受け取りました"
+		},
+		{
+			"key": "With it, you can create this artifact using ordinary resources in the Artifacts tab",
+			"value": "これを使用すると、「アーティファクト」タブの通常のリソースを使用してこのアーティファクトを作成できます。"
+		},
+
+
+		{
+			"key": "RESUME",
+			"value": "履歴書"
+		},
+		{
+			"key": "QUICK TIP",
+			"value": "簡単なヒント"
+		},
+		{
+			"key": "MAIN MENU",
+			"value": "メインメニュー"
+		},
+		{
+			"key": "RESTART",
+			"value": "リスタート"
+		},
+		{
+			"key": "YOU DIED",
+			"value": "あなたが死亡しました"
+		},
+
+
+		{
+			"key": "Extract",
+			"value": "   <color=orange>エキス</color>. 資源を入手し、ドームの精錬所に持って行き、賢く使いましょう"
+		},
+		{
+			"key": "Upgrade",
+			"value": "   <color=orange>アップグレード</color>. 波に耐えられるようにドームの防御、銃、訓練などを強化しましょう"
+		},
+		{
+			"key": "Survive",
+			"value": "   <color=orange>生き残る</color>. モンスターの波が来るたびに、反撃の準備をしてください"
+		},
+
+
+		{
+			"key": "Sayen",
+			"value": "<b><color=orange>Sayen</color></b>\nあなたの紫色の悪夢"
+		},
+		{
+			"key": "Eokcon",
+			"value": "<b><color=orange>Eokcon</color></b>\n本当の地獄"
+		},
+		{
+			"key": "Getkra",
+			"value": "<b><color=orange>Getkra</color></b>\nエメラルドの広がり"
+		},
+		{
+			"key": "Koita",
+			"value": "<b><color=orange>Koita</color></b>\n果てしない荒野"
+		},
+		{
+			"key": "Argen",
+			"value": "<b><color=orange>Argen</color></b>\n奇妙な光"
+		},
+		{
+			"key": "Fark",
+			"value": "<b><color=orange>Fark</color></b>\n寒い土地"
+		}
+	]
+}

@@ -1,0 +1,436 @@
+{
+	"items": [
+		{
+			"key": "PlayButton",
+			"value": "Play"
+		},
+		{
+			"key": "SettingsButton",
+			"value": "Settings"
+		},
+		{
+			"key": "CreditsButton",
+			"value": "Credits"
+		},
+		{
+			"key": "ExitButton",
+			"value": "Exit"
+		},
+
+		{
+			"key": "LandingSettings",
+			"value": "Landing Settings"
+		},
+		{
+			"key": "Land",
+			"value": "Land"
+		},
+		{
+			"key": "Inventory",
+			"value": "Inventory"
+		},
+
+		{
+			"key": "CHOOSE PLANET",
+			"value": "CHOOSE PLANET"
+		},
+		{
+			"key": "Random",
+			"value": "Random"
+		},
+		{
+			"key": "(RECOMMENDED)",
+			"value": "(RECOMMENDED)"
+		},
+		{
+			"key": "MAX SURVIVED WAVES",
+			"value": "MAX SURVIVED WAVES: "
+		},
+
+		{
+			"key": "CHOOSE SPECIAL UPGRADE",
+			"value": "CHOOSE SPECIAL UPGRADE"
+		},
+		{
+			"key": "CHOOSE SETTING",
+			"value": "CHOOSE SETTING"
+		},
+
+		{
+			"key": "U0",
+			"value": "Nothing"
+		},
+		{
+			"key": "U1",
+			"value": "Improved fuel to increase jetpack movement speed\n\n<color=orange>Survive 5 waves</color>"
+		},
+		{
+			"key": "U2",
+			"value": "Increase Shelter's maximum defense (strength) by 30 points through the use of a special combination of materials found on different planets\n\n<color=orange>Survive 10 waves</color>"
+		},
+		{
+			"key": "U3",
+			"value": "Chance to get two materials instead of one when refining by using more efficient method and latest equipment\n\n<color=orange>Survive 20 waves</color>"
+		},
+		{
+			"key": "U4",
+			"value": "Increases damage dealt by missile with a cumulative effect\n\n<color=orange>Survive 28 waves</color>"
+		},
+		{
+			"key": "U5",
+			"value": "Increases drill power by default\n\n<color=orange>Survive 25 waves on Hard mode</color>"
+		},
+		{
+			"key": "U6",
+			"value": "Activate any one artifact of your choice at the start of each run\n\n<color=orange>Defeat Hamy (at wave 30) in Monsoon mode</color>"
+		},
+		
+		{
+			"key": "GRAPHICS QUALITY",
+			"value": "GRAPHICS QUALITY"
+		},
+		{
+			"key": "LOW",
+			"value": "LOW"
+		},
+		{
+			"key": "MEDIUM",
+			"value": "MEDIUM"
+		},
+		{
+			"key": "HIGH",
+			"value": "HIGH"
+		},
+		{
+			"key": "Music",
+			"value": "Music"
+		},
+		{
+			"key": "SFX",
+			"value": "SFX"
+		},
+
+		{
+			"key": "Recommended to play with headphones",
+			"value": "Recommended to play with headphones"
+		},
+
+		{
+			"key": "Analyzing planet",
+			"value": "Analyzing planet..."
+		},
+		{
+			"key": "Map generation",
+			"value": "Map generation..."
+		},
+
+
+		{
+			"key": "Replenish Supplies",
+			"value": "Replenish Supplies"
+		},
+		{
+			"key": "OR",
+			"value": "OR"
+		},
+
+		
+		
+		{
+			"key": "Wave detector",
+			"value": "Wave detector"
+		},
+		{
+			"key": "DISTANCE",
+			"value": "DISTANCE"
+		},
+
+
+		{
+			"key": "Wave Cleared",
+			"value": "Wave Cleared"
+		},
+		{
+			"key": "Dome Threat Detected",
+			"value": "Dome Threat Detected"
+		},
+
+
+		{
+			"key": "AchievmentDescriptionTemplate",
+			"value": "New achievement: survive <color=orange>{0}</color> days. New special upgrade available - <color=orange>{1}</color>"
+		},
+
+		{
+			"key": "Quickly restore",
+			"value": "Quickly restore"
+		},
+		{
+			"key": "(clicking will automatically apply the recovery)",
+			"value": "(clicking will automatically apply the recovery)"
+		},
+		
+		{
+			"key": "IMPROVEMENTS",
+			"value": "IMPROVEMENTS"
+		},
+		{
+			"key": "CHOOSE IMPROVEMENT",
+			"value": "CHOOSE IMPROVEMENT"
+		},
+		{
+			"key": "IMPROVE",
+			"value": "IMPROVE"
+		},
+		{
+			"key": "M. SPEED",
+			"value": "M. SPEED"
+		},
+		{
+			"key": "DRILL",
+			"value": "DRILL"
+		},
+		{
+			"key": "BULLET",
+			"value": "MISSILE"
+		},
+		{
+			"key": "GUN",
+			"value": "GUN"
+		},
+		{
+			"key": "Shelter strength",
+			"value": "Shelter\nstrength"
+		},
+		{
+			"key": "Repair",
+			"value": "Repair"
+		},
+		{
+			"key": "Jetpack Load Capacity",
+			"value": "Jetpack\nLoad Capacity"
+		},
+
+
+		{
+			"key": "shelterHP",
+			"value": "Increasing the strength (20) of the shelter's surface"
+		},
+		{
+			"key": "speed",
+			"value": "Increases movement speed by improving jetpack performance"
+		},
+		{
+			"key": "drill",
+			"value": "Upgraded drill: better than the previous one, at least it looks like that"
+		},
+		{
+			"key": "gunPower",
+			"value": "Upgraded gun bullet: increase damage"
+		},
+		{
+			"key": "gunRotateSpeed",
+			"value": "Increases gun rotation speed"
+		},
+		{
+			"key": "gunReloadingSpeed",
+			"value": "Decreases bullet reload time"
+		},
+		{
+			"key": "jetpackLoadCapacity",
+			"value": "Increases jetpack load limit for flying with more resources"
+		},
+
+		{
+			"key": "Artifacts",
+			"value": "Artifacts"
+		},
+		{
+			"key": "CHOOSE ARTIFACT",
+			"value": "CHOOSE ARTIFACT"
+		},
+		{
+			"key": "ENABLE",
+			"value": "ENABLE"
+		},
+
+		{
+			"key": "ART_TIP",
+			"value": "To create an artifact, you need to find a part of it"
+		},
+
+
+		{
+			"key": "Unstable Tesla Coil Title",
+			"value": "Unstable Tesla Coil"
+		},
+		{
+			"key": "Aegis Title",
+			"value": "Aegis"
+		},
+		{
+			"key": "Solus Cores Title",
+			"value": "Solus Cores"
+		},
+		{
+			"key": "Preon Merger Title",
+			"value": "Preon Merger"
+		},
+		{
+			"key": "Plasma Missile Launcher Title",
+			"value": "Plasma Missile Launcher"
+		},
+		{
+			"key": "Focused Missile Title",
+			"value": "Focused Missile"
+		},
+		{
+			"key": "Protection Piercer Title",
+			"value": "Protection Piercer"
+		},
+		{
+			"key": "Concentrated Damage Title",
+			"value": "Concentrated Damage"
+		},
+		{
+			"key": "Concentrated Shots Title",
+			"value": "Concentrated Shots"
+		},
+		{
+			"key": "Weak Point Title",
+			"value": "Weak Point"
+		},
+		{
+			"key": "Resource Elevator Title",
+			"value": "Resource Elevator"
+		},
+		{
+			"key": "Converter Title",
+			"value": "Converter"
+		},
+
+		{
+			"key": "unstable tesla coil",
+			"value": "Creates a device that strikes an enemy creature with an energy blast if they get close to the reach area"
+		},
+		{
+			"key": "aegis",
+			"value": "Restores a little strength of the dome at the expense of the material extracted after killing the monster"
+		},
+		{
+			"key": "solus cores",
+			"value": "Creates two cores. Teleports you to the dome. Recharge within 55 seconds"
+		},
+		{
+			"key": "preon merger",
+			"value": "Creates with a chance a yellow ore from a slain enemy"
+		},
+		{
+			"key": "plasma missile launcher",
+			"value": "Fires several homing plasma missiles for red ore"
+		},
+		{
+			"key": "focused missile",
+			"value": "Chance to fire a homing plasma missile each time an enemy is hit"
+		},
+		{
+			"key": "protection piercer",
+			"value": "Additional damage to the enemy if he has more than 90% health"
+		},
+		{
+			"key": "concentrated damage",
+			"value": "When the shelter's durability is below 20%, double damage against enemies"
+		},
+		{
+			"key": "concentrated shots",
+			"value": "When the shelter is above 93% durability, double attack speed (missile reload)"
+		},
+		{
+			"key": "weak point",
+			"value": "Chance to deal double damage"
+		},
+		{
+			"key": "resource elevator",
+			"value": "Creates a special elevator with the delivery of resources using drones"
+		},
+		{
+			"key": "converter",
+			"value": "When repairing the dome, fires several homing plasma missiles made from old, replaced parts of the dome"
+		},
+
+		{
+			"key": "choose which part of the artifact to convert the material into",
+			"value": "choose which part of the artifact to convert the material into"
+		},
+		{
+			"key": "you received part of the artifact",
+			"value": "you received part of the artifact"
+		},
+		{
+			"key": "With it, you can create this artifact using ordinary resources in the Artifacts tab",
+			"value": "With it, you can create this artifact using ordinary resources in the Artifacts tab"
+		},
+
+
+		{
+			"key": "RESUME",
+			"value": "RESUME"
+		},
+		{
+			"key": "QUICK TIP",
+			"value": "QUICK TIP"
+		},
+		{
+			"key": "MAIN MENU",
+			"value": "MAIN MENU"
+		},
+		{
+			"key": "RESTART",
+			"value": "RESTART"
+		},
+		{
+			"key": "YOU DIED",
+			"value": "YOU DIED"
+		},
+
+
+		{
+			"key": "Extract",
+			"value": "   <color=orange>Extract</color>. Get resources, take them to the refiner in the dome and use them wisely"
+		},
+		{
+			"key": "Upgrade",
+			"value": "   <color=orange>Upgrade</color>. Improve your dome defenses, gun, drill and other to withstand the waves"
+		},
+		{
+			"key": "Survive",
+			"value": "   <color=orange>Survive</color>. Every certain time a wave of monsters comes, be ready to fight back"
+		},
+
+
+		{
+			"key": "Sayen",
+			"value": "<b><color=orange>Sayen</color></b>\nYour violet nightmare"
+		},
+		{
+			"key": "Eokcon",
+			"value": "<b><color=orange>Eokcon</color></b>\nActual hell"
+		},
+		{
+			"key": "Getkra",
+			"value": "<b><color=orange>Getkra</color></b>\nEmerald expanse"
+		},
+		{
+			"key": "Koita",
+			"value": "<b><color=orange>Koita</color></b>\nBoundless wasteland"
+		},
+		{
+			"key": "Argen",
+			"value": "<b><color=orange>Argen</color></b>\nStrange light"
+		},
+		{
+			"key": "Fark",
+			"value": "<b><color=orange>Fark</color></b>\nCold Lands"
+		}
+	]
+}

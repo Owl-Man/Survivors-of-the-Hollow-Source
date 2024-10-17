@@ -1,0 +1,440 @@
+{
+	"items": [
+		{
+			"key": "PlayButton",
+			"value": "Spela"
+		},
+		{
+			"key": "SettingsButton",
+			"value": "Inställningar"
+		},
+		{
+			"key": "CreditsButton",
+			"value": "Krediter"
+		},
+		{
+			"key": "ExitButton",
+			"value": "Utgång"
+		},
+
+		{
+			"key": "LandingSettings",
+			"value": "Landningsinställningar"
+		},
+		{
+			"key": "Land",
+			"value": "Landa"
+		},
+		{
+			"key": "Inventory",
+			"value": "Inventarier"
+		},
+
+		{
+			"key": "CHOOSE PLANET",
+			"value": "VÄLJA PLANET"
+		},
+		{
+			"key": "Random",
+			"value": "Slumpmässig"
+		},
+		{
+			"key": "(RECOMMENDED)",
+			"value": "(REKOMMENDERAD)"
+		},
+		{
+			"key": "MAX SURVIVED WAVES",
+			"value": "MAX ÖVERLEVADE VÅGOR: "
+		},
+
+		{
+			"key": "CHOOSE SPECIAL UPGRADE",
+			"value": "VÄLJ SPECIELL UPPGRADERING"
+		},
+		{
+			"key": "CHOOSE SETTING",
+			"value": "VÄLJ INSTÄLLNING"
+		},
+
+		{
+			"key": "U0",
+			"value": "Ingenting"
+		},
+		{
+			"key": "U1",
+			"value": "Förbättrat bränsle för att öka jetpack-rörelsehastigheten\n\n<color=orange>Överleva 5 vågor</color>"
+		},
+		{
+			"key": "U2",
+			"value": "Öka Shelters maximala försvar (styrka) med 30 poäng genom att använda en speciell kombination av material som finns på olika planeter\n\n<color=orange>Överleva 10 vågor</color>"
+		},
+		{
+			"key": "U3",
+			"value": "Chans att få två material istället för ett vid förädling genom att använda mer effektiv metod och senaste utrustning\n\n<color=orange>Överleva 20 vågor</color>"
+		},
+		{
+			"key": "U4",
+			"value": "Ökar skada som orsakas av missiler med en kumulativ effekt\n\n<color=orange>Överleva 28 vågor</color>"
+		},
+		{
+			"key": "U5",
+			"value": "Ökar borrkraften som standard\n\n<color=orange>Överlev 25 vågor i hårt läge</color>"
+		},
+		{
+			"key": "U6",
+			"value": "Aktivera valfri artefakt i början av varje löpning\n\n<color=orange>Besegra Hamy (vid våg 30) i Monsoon</color>"
+		},
+		
+		
+		{
+			"key": "GRAPHICS QUALITY",
+			"value": "GRAFIK KVALITET"
+		},
+		{
+			"key": "LOW",
+			"value": "LÅG"
+		},
+		{
+			"key": "MEDIUM",
+			"value": "MEDIUM"
+		},
+		{
+			"key": "HIGH",
+			"value": "HÖG"
+		},
+		{
+			"key": "Music",
+			"value": "Musik"
+		},
+		{
+			"key": "SFX",
+			"value": "SFX"
+		},
+
+		{
+			"key": "Recommended to play with headphones",
+			"value": "Rekommenderas för att spela med hörlurar"
+		},
+
+		{
+			"key": "Analyzing planet",
+			"value": "Analyserar planeten..."
+		},
+		{
+			"key": "Map generation",
+			"value": "Kartgenerering..."
+		},
+
+
+		{
+			"key": "Replenish Supplies",
+			"value": "Fyll på förråd"
+		},
+		{
+			"key": "OR",
+			"value": "ELLER"
+		},
+
+		
+		
+		{
+			"key": "Wave detector",
+			"value": "Vågdetektor"
+		},
+		{
+			"key": "DISTANCE",
+			"value": "DISTANS"
+		},
+
+
+		{
+			"key": "Wave Cleared",
+			"value": "Våg rensad"
+		},
+		{
+			"key": "Dome Threat Detected",
+			"value": "Domehot upptäckt"
+		},
+
+
+		{
+			"key": "AchievmentDescriptionTemplate",
+			"value": "Ny prestation: överleva <color=orange>{0}</color> dagar. Ny specialuppgradering tillgänglig - <color=orange>{1}</color>"
+		},
+		
+
+		{
+			"key": "Quickly restore",
+			"value": "Återställ snabbt"
+		},
+		{
+			"key": "(clicking will automatically apply the recovery)",
+			"value": "(om du klickar tillämpas återställningen automatiskt)"
+		},
+
+
+		{
+			"key": "IMPROVEMENTS",
+			"value": "FÖRBÄTTRINGAR"
+		},
+		{
+			"key": "CHOOSE IMPROVEMENT",
+			"value": "VÄLJ FÖRBÄTTRING"
+		},
+		{
+			"key": "IMPROVE",
+			"value": "FÖRBÄTTRA"
+		},
+		{
+			"key": "M. SPEED",
+			"value": "FART"
+		},
+		{
+			"key": "DRILL",
+			"value": "BORRA"
+		},
+		{
+			"key": "BULLET",
+			"value": "BULLET"
+		},
+		{
+			"key": "GUN",
+			"value": "GEVÄR"
+		},
+		{
+			"key": "Shelter strength",
+			"value": "Skyddsstyrka"
+		},
+		{
+			"key": "Repair",
+			"value": "Reparera"
+		},
+		{
+			"key": "Jetpack Load Capacity",
+			"value": "Jetpack\nLastkapacitet"
+		},
+
+
+		{
+			"key": "shelterHP",
+			"value": "Öka styrkan (20) på skyddets yta"
+		},
+		{
+			"key": "speed",
+			"value": "Ökar rörelsehastigheten genom att förbättra jetpack-prestanda"
+		},
+		{
+			"key": "drill",
+			"value": "Uppgraderad borr: bättre än den tidigare, åtminstone ser den ut så"
+		},
+		{
+			"key": "gunPower",
+			"value": "Uppgraderad pistolkula: öka skadorna"
+		},
+		{
+			"key": "gunRotateSpeed",
+			"value": "Ökar pistolens rotationshastighet"
+		},
+		{
+			"key": "gunReloadingSpeed",
+			"value": "Minskar omladdningstiden för kulorna"
+		},
+		{
+			"key": "jetpackLoadCapacity",
+			"value": "Ökar belastningsgränsen för jetpack för att flyga med mer resurser"
+		},
+
+
+		{
+			"key": "Artifacts",
+			"value": "Artefakter"
+		},
+		{
+			"key": "CHOOSE ARTIFACT",
+			"value": "VÄLJ ARTEFAKT"
+		},
+		{
+			"key": "ENABLE",
+			"value": "ENABLE"
+		},
+
+		{
+			"key": "ART_TIP",
+			"value": "För att skapa en artefakt måste du hitta en del av den"
+		},
+
+
+		{
+			"key": "Unstable Tesla Coil Title",
+			"value": "Instabil Tesla Coil"
+		},
+		{
+			"key": "Aegis Title",
+			"value": "Aegis"
+		},
+		{
+			"key": "Solus Cores Title",
+			"value": "Solus kärnor"
+		},
+		{
+			"key": "Preon Merger Title",
+			"value": "Preon fusion"
+		},
+		{
+			"key": "Plasma Missile Launcher Title",
+			"value": "Plasmamissil launcher"
+		},
+		{
+			"key": "Focused Missile Title",
+			"value": "Fokuserad missil"
+		},
+		{
+			"key": "Protection Piercer Title",
+			"value": "Skydd Piercer"
+		},
+		{
+			"key": "Concentrated Damage Title",
+			"value": "Koncentrerad skada"
+		},
+		{
+			"key": "Concentrated Shots Title",
+			"value": "Koncentrerade skott"
+		},
+		{
+			"key": "Weak Point Title",
+			"value": "Svag punkt"
+		},
+		{
+			"key": "Resource Elevator Title",
+			"value": "Resurshiss"
+		},
+		{
+			"key": "Converter Title",
+			"value": "Omvandlare"
+		},
+
+		{
+			"key": "unstable tesla coil",
+			"value": "Skapar en enhet som slår en fiendevarelse med en energiknäck om de kommer nära räckviddsområdet"
+		},
+		{
+			"key": "aegis",
+			"value": "Återställer lite styrka i kupolen på bekostnad av materialet som utvinns efter att ha dödat monstret"
+		},
+		{
+			"key": "solus cores",
+			"value": "Skapar två kärnor. Teleporterar dig till kupolen. Ladda inom 55 sekunder"
+		},
+		{
+			"key": "preon merger",
+			"value": "Skapar med en chans en gul malm från en dödad fiende"
+		},
+		{
+			"key": "plasma missile launcher",
+			"value": "Avfyrar flera målsökande plasmamissiler för rödmalm"
+		},
+		{
+			"key": "focused missile",
+			"value": "Chans att avfyra en målsökande plasmamissil varje gång en fiende träffas"
+		},
+		{
+			"key": "protection piercer",
+			"value": "Ytterligare skada på fienden om han har mer än 90 % hälsa"
+		},
+		{
+			"key": "concentrated damage",
+			"value": "När skyddets hållbarhet är under 20 %, dubbel skada mot fiender"
+		},
+		{
+			"key": "concentrated shots",
+			"value": "När skyddsrummet är över 93 % hållbarhet, dubbel attackhastighet (återladdning av projektil)"
+		},
+		{
+			"key": "weak point",
+			"value": "Chans att göra dubbel skada"
+		},
+		{
+			"key": "resource elevator",
+			"value": "Skapar en speciell hiss med leverans av resurser med hjälp av drönare"
+		},
+		{
+			"key": "converter",
+			"value": "När du reparerar kupolen, avfyrar flera målsökande plasmamissiler gjorda av gamla, utbytta delar av kupolen"
+		},
+
+		{
+			"key": "choose which part of the artifact to convert the material into",
+			"value": "välj vilken del av artefakten att konvertera materialet till"
+		},
+		{
+			"key": "you received part of the artifact",
+			"value": "du fick en del av artefakten"
+		},
+		{
+			"key": "With it, you can create this artifact using ordinary resources in the Artifacts tab",
+			"value": "Med den kan du skapa denna artefakt med hjälp av vanliga resurser på fliken Artefakter"
+		},
+
+
+		{
+			"key": "RESUME",
+			"value": "ÅTERUPPTA"
+		},
+		{
+			"key": "QUICK TIP",
+			"value": "SNABBTIPS"
+		},
+		{
+			"key": "MAIN MENU",
+			"value": "HUVUDMENY"
+		},
+		{
+			"key": "RESTART",
+			"value": "OMSTART"
+		},
+		{
+			"key": "YOU DIED",
+			"value": "DU DOG"
+		},
+
+
+		{
+			"key": "Extract",
+			"value": "   <color=orange>Extrahera</color>. Skaffa resurser, ta dem till raffinören i kupolen och använd dem klokt"
+		},
+		{
+			"key": "Upgrade",
+			"value": "   <color=orange>Uppgradera</color>. Förbättra ditt kupolförsvar, pistol, borr och annat för att stå emot vågorna"
+		},
+		{
+			"key": "Survive",
+			"value": "   <color=orange>Överleva</color>. Varje gång en våg av monster kommer, var redo att slå tillbaka"
+		},
+
+
+		{
+			"key": "Sayen",
+			"value": "<b><color=orange>Sayen</color></b>\nDin violetta mardröm"
+		},
+		{
+			"key": "Eokcon",
+			"value": "<b><color=orange>Eokcon</color></b>\nFaktiskt helvete"
+		},
+		{
+			"key": "Getkra",
+			"value": "<b><color=orange>Getkra</color></b>\nEmerald vidd"
+		},
+		{
+			"key": "Koita",
+			"value": "<b><color=orange>Koita</color></b>\nGränslös ödemark"
+		},
+		{
+			"key": "Argen",
+			"value": "<b><color=orange>Argen</color></b>\nKonstigt ljus"
+		},
+		{
+			"key": "Fark",
+			"value": "<b><color=orange>Fark</color></b>\nKalla landområden"
+		}
+	]
+}
